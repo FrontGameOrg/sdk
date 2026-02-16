@@ -1,0 +1,7 @@
+module.exports = {
+  MAX_PLAYERS: 100,
+  MAP_SIZE: 5000,
+  START_HEALTH: 100,
+  LOOT_SPAWN_INTERVAL: 10000,
+  DAMAGE: 20
+};
